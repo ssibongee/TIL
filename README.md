@@ -1,0 +1,11 @@
+<div align="center"><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F00fd32e6-53cc-4f0f-8373-2276856cfbac%2FToday_I_Learned_(10).png?table=block&id=3280808b-2de4-41a4-b555-1495609847e1&width=3580&userId=&cache=v2" height="350px">
+<p> 매일 배우고 학습한 내용을 기록합니다. </p>
+</div>
+
+
+
+### Documents
+
+* [토비의 스프링 3.1]()
+* [자바 ORM 표준 JPA 프로그래밍]()
+* [Real MySQL]()
