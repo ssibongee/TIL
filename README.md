@@ -14,3 +14,13 @@
 * [자바 병렬 프로그래밍]()
 * [객치지향의 사실과 오해]()
 * [소프트웨어 장인]()
+
+### Articles
+* [Service와 ServiceImpl 구조에 대해서](https://see-one.tistory.com/1)
+* [@Email 믿고 사용할 수 있는가?]()
+* [사용자가 증가하면 서버를 어떻게 확장해야할까?](https://see-one.tistory.com/4)
+
+
+### Study
+* [Spring Data Redis]()
+* [Filter, Interceptor, AOP]()
