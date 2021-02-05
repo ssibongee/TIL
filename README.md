@@ -6,14 +6,14 @@
 
 ### Documents
 
-* [토비의 스프링 3.1]()
-* [자바 ORM 표준 JPA 프로그래밍]()
-* [Real MySQL](https://github.com/ssibongee/TIL/tree/main/doc/Real%20MySQL)
-* [자바 성능 튜닝 이야기]()
-* [오브젝트]()
-* [자바 병렬 프로그래밍]()
+* [토비의 스프링 3.1]() <img src="https://img.shields.io/badge/-READ-orange">
+* [자바 ORM 표준 JPA 프로그래밍]()<img src="https://img.shields.io/badge/-READING-green">
+* [Real MySQL](https://github.com/ssibongee/TIL/tree/main/doc/Real%20MySQL) <img src="https://img.shields.io/badge/-READING-green">
+* [자바 성능 튜닝 이야기]() <img src="https://img.shields.io/badge/-READ-orange">
+* [오브젝트]()<img src="https://img.shields.io/badge/-READING-green">
+* [자바 병렬 프로그래밍]()<img src="https://img.shields.io/badge/-READING-green">
 * [객치지향의 사실과 오해]()
-* [소프트웨어 장인]()
+* [소프트웨어 장인]() <img src="https://img.shields.io/badge/-READING-green">
 
 ### Articles
 * [Service와 ServiceImpl 구조에 대해서](https://see-one.tistory.com/1)
